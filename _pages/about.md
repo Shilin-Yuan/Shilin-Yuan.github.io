@@ -11,6 +11,8 @@ Welcome to my homepage! My name is Shilin Yuan, and I am a third-year Ph.D. cand
 
 My research interests lie broadly in online learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
 
-You can find my CV here: [Shilin Yuan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Shilin Yuan's Curriculum Vitae](assets/Curriculum_Viate.pdf).
 
 Email: yuansl21@mails.tsinghua.edu.cn
+
+Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
