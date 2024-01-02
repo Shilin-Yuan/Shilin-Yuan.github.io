@@ -10,3 +10,7 @@ redirect_from:
 Welcome to my homepage! My name is Shilin Yuan, and I am a third-year Ph.D. candidate at Department of Mathematical Sciences, Tsinghua University. I'm honored to be advised by Professor Jinxing Xie.
 
 My research interests lie broadly in online learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
+
+You can find my CV here: [Shilin Yuan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+Email: yuansl21@mails.tsinghua.edu.cn
