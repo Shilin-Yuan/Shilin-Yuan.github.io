@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shilin Yuan"
+  name             : "Shilin Yuan (袁世林)"
   avatar           : "profile.png"
   bio              : "Ph.D. candidate at Tsinghua University"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=tgT-yV8AAAAJ&view_op=list_works&gmla=AH70aAUlqgNWCC_mu4IniQMki5ZCpaMJB7uj5UtCpgAvJTrBrfCaaCdHJTxxGW__UkLsCD_LPmVVujWX2f68_1NF2V_rzf4gK0XcObmweR8"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
