@@ -17,9 +17,18 @@ Email: yuansl21@mails.tsinghua.edu.cn
 
 Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 
+Recent Talks
+======
+
+* Jul. 2024, I will give a talk at CSAMSE in Xiamen, CN.  
+* Aug. 2024, I will give a talk at Purdue Operations Conference in West Lafayette, US. 
+* Oct. 2024, I will give a talk at INFORMS annual meeting in Seattle, US. 
+
+
 News
 ======
 
+* I will visit Gatech from Jul. 2024 to Jan. 2025.
 * Dec. 2023, our paper "[Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)" is online.
 * Sep. 2023, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got a major revision at Management Science.
 * Mar. 2023, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" is online.
