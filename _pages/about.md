@@ -28,7 +28,7 @@ Recent Talks
 News
 ======
 
-* I will visit Gatech from Jul. 2024 to Jan. 2025.
+* I will visit Gatech from Jul. 2024 to Jan. 2025, and I'm fortunate to be supervised by Prof. Xin Chen.
 * Dec. 2023, our paper "[Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)" is online.
 * Sep. 2023, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got a major revision at Management Science.
 * Mar. 2023, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" is online.
