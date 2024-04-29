@@ -10,9 +10,10 @@ Here are my [Google Scholar Homepage](https://scholar.google.com/citations?user=
 
 Working Papers
 ==============
-"*" refers to alphabetical order
 
--Jiameng Lyu\*, Jinxing Xie\*, **Shilin Yuan**\*, Yuan Zhou\*. [A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)
+-(Alphabetic) Jiameng Lyu, Jinxing Xie, **Shilin Yuan**, Yuan Zhou. [A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)
  Under major revision at *Management Science*.
 
--Xin Chen\*, Jiameng Lyu\*, **Shilin Yuan**\*, Yuan Zhou\*. [Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416) Submitted.
+-(Alphabetic) Xin Chen, Jiameng Lyu, **Shilin Yuan**, Yuan Zhou. [Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416) Submitted.
+
+-**Shilin Yuan**, Jiameng Lyu, Jinxing Xie, Yuan Zhou. Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times. Submitted.
