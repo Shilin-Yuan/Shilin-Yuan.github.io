@@ -20,7 +20,6 @@ Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 Recent Talks
 ======
 
-* Jul. 2024, I will give a talk at CSAMSE in Xiamen, CN.  
 * Aug. 2024, I will give a talk at Purdue Operations Conference in West Lafayette, US. 
 * Oct. 2024, I will give a talk at INFORMS annual meeting in Seattle, US. 
 
@@ -29,6 +28,7 @@ News
 ======
 
 * I will visit Gatech from Jul. 2024 to Jan. 2025, and I'm fortunate to be supervised by Prof. Xin Chen.
+* July. 2024, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got a minor revision at Management Science.
 * July. 2024, our paper "[Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems](http://arxiv.org/abs/2407.04900)" is online.
 * Jun. 2024, our paper "[Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)" got a major revision at Management Science.
 * Dec. 2023, our paper "[Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)" is online.
