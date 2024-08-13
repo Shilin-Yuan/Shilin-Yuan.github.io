@@ -4,8 +4,6 @@ title: ""
 permalink: /publication/
 author_profile: true
 ---
-My research interests lie broadly in online learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
-
 Here are my [Google Scholar Homepage](https://scholar.google.com/citations?user=tgT-yV8AAAAJ&hl=zh-CN) and [SSRN Homepage](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5786131).
 
 Working Papers
