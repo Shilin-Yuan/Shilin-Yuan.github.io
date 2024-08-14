@@ -9,8 +9,10 @@ My research interests lie broadly in online learning and optimization, and asymp
 
 Research Directions
 ==============
+
 Low-dimensional Heuristics Design for Supply Chain and Revenue Management
-------
+--------
+
 Many supply chain and revenue management problems have increasingly complicated features, e.g., positive lead times, multi-echelon, multi-products, and fluctuated demand environment. Therefore, the optimal policies for these problems usually have a complex structure, which may make the policies hard to implement and result in customers’ strategic behavior. When the dimensions of these features are large, the optimal policies are even computationally intractable due to the notorious curse of dimensionality. In this direction, we investigate how to design low-dimensional heuristics that are decided by a few parameters, such as base-stock, $(s,S)$, and static pricing policies. We want the new heuristic to be both easy to implement in practice and have a good theoretical guarantee.
 
 * **Shilin Yuan**, Jiameng Lyu, Jinxing Xie, Yuan Zhou. Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times. Submitted.
