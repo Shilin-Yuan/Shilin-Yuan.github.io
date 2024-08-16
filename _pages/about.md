@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! My name is Shilin Yuan, and I am a third-year Ph.D. candidate at Department of Mathematical Sciences, Tsinghua University. I'm honored to be advised by Professor Jinxing Xie.
+Welcome to my homepage! My name is Shilin Yuan, and I am a fourth-year Ph.D. candidate at Department of Mathematical Sciences, Tsinghua University. I'm honored to be advised by Professor Jinxing Xie.
 
 I'm visiting Gatech until Jan. 2025, and I'm fortunate to be supervised by Prof. Xin Chen.
 
