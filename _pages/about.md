@@ -22,7 +22,6 @@ Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 Recent Talks
 ======
 
-* Aug. 2024, I will give a talk at Purdue Operations Conference in West Lafayette, US. 
 * Oct. 2024, I will give a talk at INFORMS Annual Meeting in Seattle, US. 
 
 
