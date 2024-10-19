@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! My name is Shilin Yuan, and I am a fourth-year Ph.D. candidate at Department of Mathematical Sciences, Tsinghua University. I'm honored to be advised by Professor Jinxing Xie.
+Welcome to my homepage! My name is Shilin Yuan, and I am a final-year Ph.D. candidate at Tsinghua University, where I'm honored to be advised by Prof. Jinxing Xie and collaborate with Prof. Yuan Zhou.
 
 I'm visiting Gatech until Jan. 2025, and I'm fortunate to be supervised by Prof. Xin Chen.
+
+**I am currently seeking a postdoctoral position.**
 
 My research interests lie broadly in online learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
 
