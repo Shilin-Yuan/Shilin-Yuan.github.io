@@ -10,7 +10,7 @@ Journal Articles
 ==============
 -(Alphabetic) Jiameng Lyu, Jinxing Xie, **Shilin Yuan**, Yuan Zhou. A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy. Forthcoming at *Management Science*. [[Link]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.00920) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)
 
--**Shilin Yuan**, Jiameng Lyu, Jinxing Xie, Yuan Zhou. Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times. Forthcoming at *Operations Research Letters*. [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)
+-**Shilin Yuan**, Jiameng Lyu, Jinxing Xie, Yuan Zhou. Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times. Forthcoming at *Operations Research Letters*. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329)
 
 Working Papers
 ==============
