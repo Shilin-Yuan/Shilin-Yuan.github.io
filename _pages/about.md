@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my homepage! My name is Shilin Yuan, and I am a final-year Ph.D. candidate at Tsinghua University, where I'm honored to be advised by Prof. Jinxing Xie and collaborate with Prof. Yuan Zhou.
 
-I will join the Department of Decisions, Operations and Technology at Chinese University of Hong Kong as an Postdoctoral Fellow in July 2025.
+I will join the Department of Decisions, Operations and Technology at Chinese University of Hong Kong as a postdoctoral fellow in July 2025.
 
 My research interests lie broadly in data-driven learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
 
@@ -29,7 +29,6 @@ News
 ======
 * Jun. 2025, one paper got a major revision at Production and Operations Management.
 * Aug. 2024, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got accepted by Management Science.
-* July. 2024, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got a minor revision at Management Science.
 * July. 2024, our paper "[Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems](http://arxiv.org/abs/2407.04900)" is online.
 * Jun. 2024, our paper "[Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)" got a major revision at Management Science.
 
