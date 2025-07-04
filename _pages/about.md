@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my homepage! My name is Shilin Yuan, and I am a final-year Ph.D. candidate at Tsinghua University, where I'm honored to be advised by Prof. Jinxing Xie and collaborate with Prof. Yuan Zhou.
-
-I will join the Department of Decisions, Operations and Technology at Chinese University of Hong Kong as a postdoctoral fellow in July 2025.
+Welcome to my homepage! I am currently a postdoctoral research fellow in the Department of Decisions, Operations and Technology at Chinese University of Hong Kong, collaborating with Prof. Xiting Gong.
+I received a PhD degree in Operations Research from Tsinghua University and a BS degree in Mathematics and Applied Mathematics from Huazhong Univerity of Science and Technology.
 
 My research interests lie broadly in data-driven learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
 
