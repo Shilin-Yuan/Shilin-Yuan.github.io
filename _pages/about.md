@@ -14,7 +14,9 @@ My research interests lie broadly in data-driven learning and optimization, and 
 
 You can find my CV here: [Shilin Yuan's Curriculum Vitae](assets/Curriculum_Viate.pdf).
 
-Email: yuansl21@mails.tsinghua.edu.cn
+Email: shilinyuan@cuhk.edu.hk
+
+yuansl21@mails.tsinghua.edu.cn (expired)
 
 Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 
