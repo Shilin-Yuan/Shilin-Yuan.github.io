@@ -24,9 +24,9 @@ Working Papers
 
 -(Alphabetic) Jiameng Lyu, **Shilin Yuan**, Bingkun Zhou, Yuan Zhou. Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems. Submitted. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063) [[arXiv]](http://arxiv.org/abs/2407.04900)
 
+-(Alphabetic) Xin Chen, Jiameng Lyu, **Shilin Yuan**, Yuan Zhou. Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298) [[arXiv]](https://arxiv.org/abs/2509.18709)
+
 Work in Process
 ==============
 
--(Alphabetic) Xin Chen, Jiameng Lyu, **Shilin Yuan**, Yuan Zhou. Nonstationary Sample Average Approximation with Applications in Inventory Management.
-
--**Shilin Yuan**, Jinxing Xie, Xiaobo Zhao, Xiuli Chao. Asymptotic Optimality of $(s,S)$ Policies for Perishable Inventory Systems with Fixed Ordering Costs.
+-Asymptotic Optimality of $(s,S)$ Policies for Perishable Inventory Systems with Fixed Ordering Costs.
