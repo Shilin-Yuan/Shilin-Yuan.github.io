@@ -24,7 +24,7 @@ Low-dimensional Heuristics Design for Operations Management
   - **Shilin Yuan**, Jiameng Lyu, Jinxing Xie, Yuan Zhou.
   - *Operations Research Letters*. [[Journal Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329)
 * Asymptotic Optimality of $(s,S)$ Policies for Perishable Inventory Systems with Fixed Ordering Costs.
-  -Work in Process.
+  - Work in Process.
 </details open>
 
 
