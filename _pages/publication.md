@@ -37,4 +37,4 @@ Work in Process
 ==============
 
 * Asymptotic Optimality of $(s,S)$ Policies for Perishable Inventory Systems with Fixed Ordering Costs.
-  -Work in Process.
+  - Work in Process.
