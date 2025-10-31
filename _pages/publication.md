@@ -29,7 +29,7 @@ Working Papers
   - (Alphabetical) Jiameng Lyu, <ins>Shilin Yuan</ins>, Bingkun Zhou, Yuan Zhou.
   - Under review. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063) [[arXiv]](http://arxiv.org/abs/2407.04900)
 * **Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand.**
-  - (Alphabetic) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.
+  - (Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.
   - Under review. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298) [[arXiv]](https://arxiv.org/abs/2509.18709)
  
 
