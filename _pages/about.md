@@ -21,7 +21,7 @@ Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 Recent Talks
 ======
 
-* Oct. 2025, I will give a talk at INFORMS Annual Meeting in Atlanta, US. 
+* Jan. 2026, I will give a talk at POMS-HK in Shenzhen, China. 
 
 
 News
