@@ -17,8 +17,10 @@ Low-dimensional Heuristics Design for Operations Management
   Many supply chain and revenue management problems have increasingly complex features, e.g., positive lead times, multi-echelon, multi-product, and fluctuating demand environments. Therefore, the optimal policies for these problems usually have a complex structure, which may make them hard to implement and lead to customers’ strategic behavior. When the dimensions of these features are large, the optimal policies are even computationally intractable due to the notorious curse of dimensionality. In this direction, we investigate how to design low-dimensional heuristics that are decided by a few parameters, such as base-stock, $(s,S)$, and static pricing policies. We want the new heuristic to be both easy to implement in practice and to have a good theoretical guarantee.
 </details>
 
+<br>
+
 <details open>
-<summary> Related Projects: </summary>
+<summary> <strong>Related Projects: </strong> </summary>
 <ul>
   <li>
     <strong>Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times. </strong>
@@ -43,12 +45,12 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
 --------
 
 <details open>
-  <summary> Research Context & Motivation: </summary>
+  <summary> <strong>Research Context & Motivation:</strong> </summary>
   Many Markov decision processes are shown to have structured optimal policies or near-optimal low-dimensional heuristics as discussed above. However, existing studies mainly show the (near) optimal policy falls into certain policy families, but do not give algorithmic methods to search for the best one. In this direction, we investigate how to design new algorithms for optimizing structured policies for Markov decision processes. For example, base-stock policies and constant order policies in inventory control. We also try to provide new insights into classical data-driven methods, such as Stochastic Gradient Descent (SGD) and Sample Average Approximation (SAA).
 </details>
 
 <details open>
-  <summary>Related Projects:</summary>
+  <summary><strong>Related Projects: </strong></summary>
   
   <ul>
     <li>
