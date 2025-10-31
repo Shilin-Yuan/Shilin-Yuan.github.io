@@ -11,7 +11,7 @@ Journal Articles
 * **A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy.**
   - (Alphabetical) Jiameng Lyu, Jinxing Xie, <ins>Shilin Yuan</ins>, Yuan Zhou.
   - *Management Science*. [[Journal Link]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.00920) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)
-* Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times.
+* **Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times.**
   - <ins>Shilin Yuan</ins>, Jiameng Lyu, Jinxing Xie, Yuan Zhou.
   - *Operations Research Letters*. [[Journal Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329)
 
@@ -19,10 +19,10 @@ Journal Articles
 Working Papers
 ==============
 
-* **Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies. **
+* **Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies.**
   - (Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.
   - Under second round major revision at *Management Science*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)
-* **Joint Dynamic Advertising and Pricing with Demand Learning. **
+* **Joint Dynamic Advertising and Pricing with Demand Learning.**
   - (Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.
   - Under major revision at *Production Operations Management*.
 * **Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems.** 
