@@ -25,7 +25,7 @@ Low-dimensional Heuristics Design for Operations Management
     Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times.
     <ul>
       <li><strong>Shilin Yuan</strong>, Jiameng Lyu, Jinxing Xie, Yuan Zhou.</li>
-      <li><em>Operations Research Letters</em>. [[Journal Link]](https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329)</li>
+      <li><em>Operations Research Letters</em>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329">[Journal Link]</a></li>
     </ul>
   </li>
   <li>
