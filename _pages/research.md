@@ -13,7 +13,7 @@ Research Directions
 Low-dimensional Heuristics Design for Operations Management
 --------
 <details open>
-  <summary> Research Context & Motivation: </summary>
+  <summary> <strong>Research Context & Motivation:</strong> </summary>
   Many supply chain and revenue management problems have increasingly complex features, e.g., positive lead times, multi-echelon, multi-product, and fluctuating demand environments. Therefore, the optimal policies for these problems usually have a complex structure, which may make them hard to implement and lead to customers’ strategic behavior. When the dimensions of these features are large, the optimal policies are even computationally intractable due to the notorious curse of dimensionality. In this direction, we investigate how to design low-dimensional heuristics that are decided by a few parameters, such as base-stock, $(s,S)$, and static pricing policies. We want the new heuristic to be both easy to implement in practice and to have a good theoretical guarantee.
 </details>
 
@@ -50,38 +50,38 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
 <details open>
   <summary>Related Projects:</summary>
   
-  <ul style="list-style-type: none; padding-left: 0;">
+  <ul style="padding-left: 0;">
     <li style="margin-bottom: 1.5em;">
       <strong>A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy</strong>
-      <ul style="list-style-type: none; padding-left: 1em;">
+      <ul style="padding-left: 1em;">
         <li>(Alphabetical) Jiameng Lyu, Jinxing Xie, <ins>Shilin Yuan</ins>, Yuan Zhou</li>
         <li><em>Management Science.</em>  <a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.00920">[Journal Link]</a>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778">[SSRN]</a></li>
       </ul>
     </li>
     <li style="margin-bottom: 1.5em;">
       <strong>Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies</strong>
-      <ul style="list-style-type: none; padding-left: 1em;">
+      <ul style="padding-left: 1em;">
         <li>(Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.</li>
         <li>Under second round major revision at <em>Management Science.</em>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416">[SSRN]</a></li>
       </ul>
     </li>
     <li style="margin-bottom: 1.5em;">
       <strong>Joint Dynamic Advertising and Pricing with Demand Learning</strong>
-      <ul style="list-style-type: none; padding-left: 1em;">
+      <ul style="padding-left: 1em;">
         <li>(Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.</li>
         <li>Under major revision at <em>Production Operations Management.</em></li>
       </ul>
     </li>
     <li style="margin-bottom: 1.5em;">
       <strong>Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems</strong>
-      <ul style="list-style-type: none; padding-left: 1em;">
+      <ul style="padding-left: 1em;">
         <li>(Alphabetical) Jiameng Lyu, <ins>Shilin Yuan</ins>, Bingkun Zhou, Yuan Zhou.</li>
         <li>Under review. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063">[SSRN]</a>  <a href="http://arxiv.org/abs/2407.04900">[arXiv]</a></li>
       </ul>
     </li>
     <li style="margin-bottom: 1.5em;">
       <strong>Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand</strong>
-      <ul style="list-style-type: none; padding-left: 1em;">
+      <ul style="padding-left: 1em;">
         <li>(Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.</li>
         <li>Under review. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298">[SSRN]</a>  <a href="https://arxiv.org/abs/2509.18709">[arXiv]</a></li>
       </ul>
