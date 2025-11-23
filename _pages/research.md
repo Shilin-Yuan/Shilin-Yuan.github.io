@@ -25,7 +25,10 @@ Low-dimensional Heuristics Design for Operations Management
     <ul>
       <li><ins>Shilin Yuan</ins>, Jiameng Lyu, Jinxing Xie, Yuan Zhou.</li>
       <li><em>Operations Research Letters</em>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329">[Journal Link]</a></li>
-      <li><p style="color: #888888;">Justify the performance of BSP under Kaplan's lead time models. </p>
+      <li>
+        <span style="color: #888888;">
+        Justify the performance of BSP under Kaplan's lead time models.
+        </span>
       </li>
     </ul>
   </li>
