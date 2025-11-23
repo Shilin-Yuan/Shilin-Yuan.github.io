@@ -25,7 +25,9 @@ Low-dimensional Heuristics Design for Operations Management
     <ul>
       <li><ins>Shilin Yuan</ins>, Jiameng Lyu, Jinxing Xie, Yuan Zhou.</li>
       <li><em>Operations Research Letters</em>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329">[Journal Link]</a></li>
-      <li>Justify the performance of BSP under Kaplan's lead time models <details class="abstract-details-inline">
+      <li>Justify the performance of BSP under Kaplan's lead time models. </li>
+      <li>
+        <details class="abstract-details">
           <summary>
             <span class="abstract-button">Abstract</span>
           </summary>
@@ -127,12 +129,6 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
     margin-top: 0.4rem;
     padding-left: 0.5rem;
   }
-
-  /* 关键：行内使用的 details，让它变成 inline-block */
-  .abstract-details-inline {
-    display: inline-block;
-    margin-left: 0.5rem;  /* 让按钮和前一个句子之间有点间距 */
-    vertical-align: baseline;
-  }
 </style>
+
 
