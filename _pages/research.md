@@ -22,6 +22,18 @@ Low-dimensional Heuristics Design for Operations Management
 <ul>
   <li>
     <strong>Asymptotic Optimality of Base-Stock Policies for Lost-Sales Inventory Systems with Stochastic Lead Times. </strong>
+    <!-- 一句话介绍 + more/less 按钮 -->
+    <p style="margin: 0.2rem 0;">
+      aaa
+      <a href="javascript:void(0);"
+         onclick="toggleAbstract('abs-base-stock-orl', this)">
+        more
+      </a>
+    </p>
+    <!-- 隐藏的摘要 -->
+    <div id="abs-base-stock-orl" style="display:none; margin: 0.2rem 0 0.4rem 0;">
+      bbbbbb
+    </div>
     <ul>
       <li><ins>Shilin Yuan</ins>, Jiameng Lyu, Jinxing Xie, Yuan Zhou.</li>
       <li><em>Operations Research Letters</em>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329">[Journal Link]</a></li>
@@ -89,3 +101,17 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
   </ul>
 </details>
 
+<script>
+  function toggleAbstract(id, link) {
+    var el = document.getElementById(id);
+    if (!el) return;
+
+    if (el.style.display === "none" || el.style.display === "") {
+      el.style.display = "block";
+      link.innerText = "less";   // 如果用中文就写 "收起"
+    } else {
+      el.style.display = "none";
+      link.innerText = "more";   // 如果用中文就写 "展开"
+    }
+  }
+</script>
