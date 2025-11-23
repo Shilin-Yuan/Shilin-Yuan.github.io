@@ -32,7 +32,7 @@ Low-dimensional Heuristics Design for Operations Management
             <span class="abstract-button">Abstract</span>
           </summary>
           <div class="abstract-content">
-            aaaaaabbbbcccc
+            TO BE ADDED.
           </div>
         </details>
       </li>
