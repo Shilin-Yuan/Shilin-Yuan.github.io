@@ -25,16 +25,14 @@ Low-dimensional Heuristics Design for Operations Management
     <ul>
       <li><ins>Shilin Yuan</ins>, Jiameng Lyu, Jinxing Xie, Yuan Zhou.</li>
       <li><em>Operations Research Letters</em>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167637724001329">[Journal Link]</a></li>
-      <li>Justify the performance of BSP under Kaplan's lead time models. </li>
-      <li>
-        <details class="abstract-details">
+      <li>Justify the performance of BSP under Kaplan's lead time models <details class="abstract-details-inline">
           <summary>
             <span class="abstract-button">Abstract</span>
           </summary>
           <div class="abstract-content">
-            TO BE ADDED.
+            TBD.
           </div>
-        </details>
+        </details> 
       </li>
     </ul>
   </li>
@@ -103,12 +101,10 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
 
 
 <style>
-  /* 整个 details 的外观，可以按需改 */
   .abstract-details {
     margin: 0.25rem 0 0.75rem 0;
   }
 
-  /* 去掉默认的小三角符号 */
   .abstract-details summary {
     list-style: none;
     cursor: pointer;
@@ -117,20 +113,26 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
     display: none;
   }
 
-  /* “Abstract” 这个按钮的样式 */
   .abstract-button {
     display: inline-block;
     padding: 2px 10px;
-    border-radius: 999px;         /* 圆角胶囊形状 */
+    border-radius: 999px;
     border: 1px solid #888888;
     font-size: 0.85rem;
     line-height: 1.4;
     cursor: pointer;
   }
 
-  /* 摘要内容区域，可以稍微缩进一点 */
   .abstract-content {
     margin-top: 0.4rem;
     padding-left: 0.5rem;
   }
+
+  /* 关键：行内使用的 details，让它变成 inline-block */
+  .abstract-details-inline {
+    display: inline-block;
+    margin-left: 0.5rem;  /* 让按钮和前一个句子之间有点间距 */
+    vertical-align: baseline;
+  }
 </style>
+
