@@ -24,13 +24,13 @@ Working Papers
   - Under second round major revision at *Management Science*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)
 * **Joint Dynamic Advertising and Pricing with Demand Learning.**
   - (Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.
-  - Under major revision at *Production Operations Management*.
+  - Under review after major revision at *Production Operations Management*.
 * **Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems.** 
   - (Alphabetical) Jiameng Lyu, <ins>Shilin Yuan</ins>, Bingkun Zhou, Yuan Zhou.
-  - Under review. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063) [[arXiv]](http://arxiv.org/abs/2407.04900)
+  - Under major revision at *Production Operations Management*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063) [[arXiv]](http://arxiv.org/abs/2407.04900)
 * **Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand.**
   - (Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.
-  - Under review. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298) [[arXiv]](https://arxiv.org/abs/2509.18709)
+  - Under review at *Management Science*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298) [[arXiv]](https://arxiv.org/abs/2509.18709)
  
 
 Work in Process
