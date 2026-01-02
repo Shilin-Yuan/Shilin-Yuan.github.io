@@ -74,21 +74,21 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
       <strong>Joint Dynamic Advertising and Pricing with Demand Learning</strong>
       <ul>
         <li>(Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.</li>
-        <li>Under major revision at <em>Production Operations Management.</em></li>
+        <li>Under review after major revision at <em>Production Operations Management.</em></li>
       </ul>
     </li>
     <li>
       <strong>Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems</strong>
       <ul>
         <li>(Alphabetical) Jiameng Lyu, <ins>Shilin Yuan</ins>, Bingkun Zhou, Yuan Zhou.</li>
-        <li>Under review. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063">[SSRN]</a>  <a href="http://arxiv.org/abs/2407.04900">[arXiv]</a></li>
+        <li>Under major revision at <em>Production Operations Management.</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063">[SSRN]</a>  <a href="http://arxiv.org/abs/2407.04900">[arXiv]</a></li>
       </ul>
     </li>
     <li>
       <strong>Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand</strong>
       <ul>
         <li>(Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.</li>
-        <li>Under review. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298">[SSRN]</a>  <a href="https://arxiv.org/abs/2509.18709">[arXiv]</a></li>
+        <li>Under review at <em>Management Science.</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298">[SSRN]</a>  <a href="https://arxiv.org/abs/2509.18709">[arXiv]</a></li>
       </ul>
     </li>
   </ul>
