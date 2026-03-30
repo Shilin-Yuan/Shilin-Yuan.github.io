@@ -74,7 +74,7 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
       <strong>Joint Dynamic Advertising and Pricing with Demand Learning</strong>
       <ul>
         <li>(Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.</li>
-        <li>Under review after major revision at <em>Production Operations Management.</em></li>
+        <li>Under minor revision at <em>Production Operations Management.</em></li>
       </ul>
     </li>
     <li>
