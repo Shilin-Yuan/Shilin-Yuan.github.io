@@ -21,16 +21,16 @@ Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 Recent Talks
 ======
 
-* Jan. 2026, I will give a talk at POMS-HK in Shenzhen, China. 
+* TO BE DECIDED. 
 
 
 News
 ======
+
 * Sep. 2025, our paper "Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand" is online.
-* Jun. 2025, one paper got a major revision at Production and Operations Management.
 * Aug. 2024, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got accepted by Management Science.
 * July. 2024, our paper "[Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems](http://arxiv.org/abs/2407.04900)" is online.
-* Jun. 2024, our paper "[Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)" got a major revision at Management Science.
+
 
 
 
