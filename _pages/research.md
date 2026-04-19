@@ -67,7 +67,7 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
       <strong>Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies</strong>
       <ul>
         <li>(Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.</li>
-        <li>Under second round major revision at <em>Management Science.</em>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416">[SSRN]</a></li>
+        <li>Accepted at <em>Management Science.</em>  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416">[SSRN]</a></li>
       </ul>
     </li>
     <li>
