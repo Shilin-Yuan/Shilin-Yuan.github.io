@@ -21,7 +21,7 @@ Working Papers
 
 * **Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies.**
   - (Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.
-  - Under second round major revision at *Management Science*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)
+  - Accepted at *Management Science*. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4671416)
 * **Joint Dynamic Advertising and Pricing with Demand Learning.**
   - (Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.
   - Under minor revision at *Production Operations Management*.
