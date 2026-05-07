@@ -33,9 +33,15 @@ Low-dimensional Heuristics Design for Operations Management
     </ul>
   </li>
   <li>
-    <strong>Asymptotic Optimality of $(s,S)$ Policies for Perishable Inventory Systems with Fixed Ordering Costs.</strong>
+    <strong>Large-Penalty Asymptotic Analysis for Inventory Systems: An MDP Approach.</strong>
     <ul>
+      <li>With Xiting Gong.</li>
       <li>Work in Process.</li>
+      <li>
+        <span style="color: #888888;">
+        A General Framework for asymptotic analysis for MDP in the regime of large penalty.
+        </span>
+      </li>
     </ul>
   </li>
 </ul>
