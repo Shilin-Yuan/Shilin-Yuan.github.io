@@ -36,5 +36,5 @@ Working Papers
 Work in Process
 ==============
 
-* **Asymptotic Optimality of $(s,S)$ Policies for Perishable Inventory Systems with Fixed Ordering Costs.**
+* **Large-Penalty Asymptotic Analysis for Inventory Systems: An MDP Approach.**
   - Work in Process.
