@@ -14,9 +14,8 @@ My research interests lie broadly in data-driven learning and optimization, and 
 
 You can find my CV here: [Shilin Yuan's Curriculum Vitae](assets/Curriculum_Viate.pdf).
 
-Email: shilinyuan@cuhk.edu.hk
+Email: shilinyuan-research@outlook.com
 
-Feel free to contact me through Email or [Wechat](images/Wechat.jpg).
 
 Recent Talks
 ======
@@ -26,7 +25,7 @@ Recent Talks
 
 News
 ======
-
+* Mar. 2026, our paper "Learning in Lost-Sales Inventory Systems with Stochastic Lead Times and Random Supplies" got accepted by Management Science.
 * Sep. 2025, our paper "Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand" is online.
 * Aug. 2024, our paper "[A Minibatch-SGD-based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390778)" got accepted by Management Science.
 * July. 2024, our paper "[Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems](http://arxiv.org/abs/2407.04900)" is online.
