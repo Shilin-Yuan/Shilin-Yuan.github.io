@@ -38,3 +38,5 @@ Work in Process
 
 * **Large-Penalty Asymptotic Analysis for Inventory Systems: An MDP Approach.**
   - Work in Process.
+* **On the Algorithmic Properties of Lost-sales Inventory System under Base-stock Policies.**
+  - Work in Process.
