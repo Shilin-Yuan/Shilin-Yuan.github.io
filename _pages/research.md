@@ -35,7 +35,6 @@ Low-dimensional Heuristics Design for Operations Management
   <li>
     <strong>Large-Penalty Asymptotic Analysis for Inventory Systems: An MDP Approach.</strong>
     <ul>
-      <li>With Xiting Gong.</li>
       <li>Work in Process.</li>
       <li>
         <span style="color: #888888;">
@@ -55,7 +54,7 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
 
 <details open>
   <summary> <strong>Research Context & Motivation:</strong> </summary>
-  Many Markov decision processes are shown to have structured optimal policies or near-optimal low-dimensional heuristics as discussed above. However, existing studies mainly show the (near) optimal policy falls into certain policy families, but do not give algorithmic methods to search for the best one. In this direction, we investigate how to design new algorithms for optimizing structured policies for Markov decision processes. For example, base-stock policies and constant order policies in inventory control. We also try to provide new insights into classical data-driven methods, such as Stochastic Gradient Descent (SGD) and Sample Average Approximation (SAA).
+  Many Markov decision processes are shown to have structured optimal policies or near-optimal low-dimensional heuristics as discussed above. However, existing studies mainly show that the (near) optimal policy falls into certain policy families, but do not give algorithmic methods to search for the best one. In this direction, we investigate how to design new algorithms for optimizing structured policies for Markov decision processes. For example, base-stock policies and constant order policies in inventory control. We also try to provide new insights into classical data-driven methods, such as Stochastic Gradient Descent (SGD) and Sample Average Approximation (SAA).
 </details>
 
 <details open>
@@ -77,24 +76,24 @@ Learning and Optimization of Structured Policies for Markov Decision Processes
       </ul>
     </li>
     <li>
-      <strong>Joint Dynamic Advertising and Pricing with Demand Learning</strong>
+      <strong>Joint Dynamic Advertising and Pricing: Near-Optimality of Static Policies and Demand Learning</strong>
       <ul>
         <li>(Alphabetical) Junyi Liu, Qihang Sun, Jinxing Xie, <ins>Shilin Yuan</ins>.</li>
-        <li>Under minor revision at <em>Production Operations Management.</em></li>
+        <li>Under review after minor revision at <em>Production Operations Management.</em></li>
       </ul>
     </li>
     <li>
-      <strong>Closing the Gaps: Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems</strong>
+      <strong>Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems: A General Optimization Perspective</strong>
       <ul>
         <li>(Alphabetical) Jiameng Lyu, <ins>Shilin Yuan</ins>, Bingkun Zhou, Yuan Zhou.</li>
-        <li>Under major revision at <em>Production Operations Management.</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063">[SSRN]</a>  <a href="http://arxiv.org/abs/2407.04900">[arXiv]</a></li>
+        <li>Under review after major revision at <em>Production Operations Management.</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880063">[SSRN]</a>  <a href="http://arxiv.org/abs/2407.04900">[arXiv]</a></li>
       </ul>
     </li>
     <li>
       <strong>Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand</strong>
       <ul>
         <li>(Alphabetical) Xin Chen, Jiameng Lyu, <ins>Shilin Yuan</ins>, Yuan Zhou.</li>
-        <li>Under review at <em>Management Science.</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298">[SSRN]</a>  <a href="https://arxiv.org/abs/2509.18709">[arXiv]</a></li>
+        <li>Reject and resubmit at <em>Management Science.</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5519298">[SSRN]</a>  <a href="https://arxiv.org/abs/2509.18709">[arXiv]</a></li>
       </ul>
     </li>
   </ul>
