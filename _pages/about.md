@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I will join the School of Management, Huazhong University of Science and Technology (HUST) in Fall 2026. Before that, I was a postdoctoral fellow in the Department of Decisions, Operations and Technology at the Chinese University of Hong Kong. I received a PhD degree in Operations Research from Tsinghua University and a BS degree in Mathematics and Applied Mathematics from HUST.
+I am an assistant professor at the School of Management, Huazhong University of Science and Technology (HUST). Before that, I was a postdoctoral fellow in the Department of Decisions, Operations and Technology at the Chinese University of Hong Kong. I received a PhD degree in Operations Research from Tsinghua University and a BS degree in Mathematics and Applied Mathematics from HUST.
 
 My research interests lie broadly in data-driven learning and optimization, and asymptotic analysis, with a particular emphasis on the application of these methods in the field of inventory and revenue management.
 
